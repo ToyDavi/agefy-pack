@@ -5,7 +5,6 @@ Um sistema criado para desenvolvedores Brasileiros verificarem a idade de seus u
 - tesseract.js
 - sharp
 - uuid
-- multer
 - cpf-cnpj-validator
 
 
